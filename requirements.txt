@@ -5,6 +5,11 @@ pandas==2.2.2
 scipy==1.13.0
 joblib==1.4.2
 
+# API
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+
 # Streaming / Kafka
 kafka-python==2.0.2
 confluent-kafka==2.4.0
