@@ -1,0 +1,30 @@
+# Core ML & Data
+scikit-learn==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+joblib==1.4.2
+
+# Streaming / Kafka
+kafka-python==2.0.2
+confluent-kafka==2.4.0
+
+# Serialization
+fastavro==1.9.4
+orjson==3.10.3
+
+# Notebooks & Visualization
+jupyter==1.0.0
+ipykernel==6.29.4
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Monitoring & Logging
+structlog==24.1.0
+prometheus-client==0.20.0
+
+# Utilities
+python-dotenv==1.0.1
+click==8.1.7
+tqdm==4.66.4
